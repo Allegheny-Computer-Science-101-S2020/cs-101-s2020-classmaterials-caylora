@@ -1,11 +1,10 @@
 public class Driver{
 	public static void main(String[] args){
-		
+
 		Car obj = new Car(5);
 		obj.printInfo();
-		
-		
-		/* 
+
+		/*
 		// Case 1
 		Vehicle o1 = new Vehicle();
 		o1.printM1();
@@ -25,7 +24,7 @@ public class Driver{
 		o3.printM1();
 		o3.printM2();
 		*/
-		
+
 
 		/*
 		// Case 4

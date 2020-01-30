@@ -1,5 +1,5 @@
 class Vehicle{
-	int maxCapacity;
+	protected int maxCapacity;
 	Vehicle(){} // default constructor
 	Vehicle(int cap){
 		maxCapacity = cap;
